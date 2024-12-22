@@ -137,5 +137,5 @@ Solved Grid:
 
 ---
 
-**Maintained By**: [Your Name](https://github.com/your-profile)
+**Maintained By**: [Gaurav Gupta](https://github.com/Gaurav075)
 
