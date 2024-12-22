@@ -61,7 +61,7 @@ Make sure you have the following installed:
    Open your terminal and run the following command:
 
    ```bash
-   git clone https://github.com/your-repo/sudoku-solver.git
+   git clone https://github.com/Gaurav075/Sudoku_Solver.git
    cd sudoku-solver
    ```
 
@@ -133,7 +133,7 @@ Solved Grid:
 
 ## <a name="links">🔗 Links</a>
 
-- [GitHub Repository](https://github.com/your-repo/sudoku-solver)
+- [GitHub Repository](https://github.com/Gaurav075/Sudoku_Solver.git)
 - [Sudoku Algorithm Explanation](https://en.wikipedia.org/wiki/Sudoku_solving_algorithms)
 
 ---
