@@ -2,7 +2,7 @@
 <div align="center">
   <br />
     <a href="#" >
-      <img src="https://your-project-banner-link.com" alt="Project Banner">
+      <img src="banner.JPG" alt="Project Banner">
     </a>
   <br />
 
