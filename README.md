@@ -6,7 +6,7 @@
     </a>
   <br />
 
-  <h2 align="center">Sudoku Solver using Backtracking in C++</h2>
+  <h1 align="center">Sudoku Solver using Backtracking in C++</h1>
 
    <div align="center">
     Efficiently solves any valid Sudoku puzzle using the power of backtracking.
