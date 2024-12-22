@@ -9,8 +9,7 @@
   <h3 align="center">Sudoku Solver using Backtracking in C++</h3>
 
    <div align="center">
-    Efficiently solves any valid Sudoku puzzle using the power of backtracking. <br>
-    See the project in action <a href="https://github.com/your-repo/sudoku-solver" target="_blank"><b>Here</b></a>
+    Efficiently solves any valid Sudoku puzzle using the power of backtracking.
     </div>
 </div>
 
