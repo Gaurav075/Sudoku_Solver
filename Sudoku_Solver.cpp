@@ -28,17 +28,21 @@ bool isSafe(const vector<vector<int>>& grid, int row, int col, int num) {
         if (grid[row][x] == num || grid[x][col] == num) {
             return false;
         }
+        if(grid[3*(row/3)+x/3][3*(col/3)+x%3]==num)
+        {
+            return false;
+        }
     }
 
     // Check the 3x3 box
-    int startRow = row - row % 3, startCol = col - col % 3;
-    for (int i = 0; i < 3; i++) {
-        for (int j = 0; j < 3; j++) {
-            if (grid[i + startRow][j + startCol] == num) {
-                return false;
-            }
-        }
-    }
+    // int startRow = row - row % 3, startCol = col - col % 3;
+    // for (int i = 0; i < 3; i++) {
+    //     for (int j = 0; j < 3; j++) {
+    //         if (grid[i + startRow][j + startCol] == num) {
+    //             return false;
+    //         }
+    //     }
+    // }
 
     return true;
 }
